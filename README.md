@@ -45,3 +45,4 @@ Inverting amplifier:
 
 
 ## RESULT:
+
